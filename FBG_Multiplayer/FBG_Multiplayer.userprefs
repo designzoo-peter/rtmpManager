@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/MPManager.cs">
+    <Files>
+      <File FileName="Assets/Scripts/MPManager.cs" Line="12" Column="25" />
+      <File FileName="Assets/Scripts/UIMultiplayer.cs" Line="22" Column="19" />
+      <File FileName="Assets/Scripts/MPPlayer.cs" Line="57" Column="22" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
